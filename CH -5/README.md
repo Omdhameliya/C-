@@ -33,6 +33,6 @@ below mentioned attributes:
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/CH%20-5/Images/image2.PNG)
 ****
 ****
