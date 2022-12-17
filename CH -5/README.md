@@ -15,7 +15,7 @@ attributes:
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/CH%20-5/Images/image1.PNG)
 ****
 ****
 <u>**Aim 2**</u> : WAP to get and display 5 Customers
