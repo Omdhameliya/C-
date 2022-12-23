@@ -6,7 +6,9 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image1.1.PNG)
+
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image1.2.PNG)
 ****
 ****
 
@@ -16,7 +18,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image2.PNG)
 ****
 ****
 
@@ -26,7 +28,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image3.PNG)
 ****
 ****
 
@@ -36,7 +38,9 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image4.1.PNG)
+
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image4.2.PNG)
 ****
 ****
 
@@ -46,7 +50,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image5.PNG)
 ****
 ****
 
@@ -56,7 +60,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image6.PNG)
 ****
 ****
 
@@ -66,7 +70,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image7.PNG)
 ****
 ****
 
@@ -76,7 +80,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image8.PNG)
 ****
 ****
 
@@ -87,7 +91,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image9.PNG)
 ****
 ****
 
@@ -97,7 +101,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image10.PNG)
 ****
 ****
 
@@ -107,7 +111,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image12.PNG)
 ****
 ****
 
@@ -117,7 +121,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/Pr%20-4/Images/image15.PNG)
 ****
 ****
 
