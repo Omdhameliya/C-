@@ -13,6 +13,7 @@ encapsulation by including below mentioned attributes:
 <u>**Program**</u> : 1.cpp
 
 <u>**Outout**</u> : 
+
 ![image1](https://user-images.githubusercontent.com/114163761/209755964-6e3fc3d1-fe30-43b3-80d4-279320a58d75.PNG)
 
 ****
@@ -30,6 +31,7 @@ below mentioned attributes:
 <u>**Program**</u> : 2.cpp
 
 <u>**Outout**</u> : 
+
 <img width="393" alt="image2" src="https://user-images.githubusercontent.com/114163761/209755983-15db5b67-2388-4e25-a9dd-da328d1d906a.PNG">
 
 ****
