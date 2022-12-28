@@ -16,6 +16,7 @@ member by including below mentioned attributes:
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+<img width="381" alt="image1" src="https://user-images.githubusercontent.com/114163761/209756085-84f454ae-1371-4724-a1fd-f7a5c93a2889.PNG">
+
 ****
 ****
