@@ -7,6 +7,7 @@ which performs addition of two times in format of HH:MM:SS.
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+<img width="346" alt="image1" src="https://user-images.githubusercontent.com/114163761/209756130-3c021a34-fd55-4292-9bd3-dc30805605e3.PNG">
+
 ****
 ****
