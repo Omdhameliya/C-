@@ -7,6 +7,7 @@ inheriting constructors in hybrid inheritance.
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+<img width="329" alt="image1" src="https://user-images.githubusercontent.com/114163761/209947884-aac388d2-f40c-4efe-b3a9-831ef6e1e631.PNG">
+
 ****
 ****
