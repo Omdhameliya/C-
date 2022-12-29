@@ -11,7 +11,8 @@ getData() methods
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+<img width="327" alt="image1" src="https://user-images.githubusercontent.com/114163761/209947764-cdd315db-1551-404f-838c-f7b3f3f46d44.PNG">
+
 ****
 ****
 <u>**Aim 2**</u> : WAP to convert given degree celsius temperature into
@@ -28,6 +29,7 @@ method
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+<img width="354" alt="image2" src="https://user-images.githubusercontent.com/114163761/209947805-52ebd15f-2967-475f-b9fe-5187281470db.PNG">
+
 ****
 ****
