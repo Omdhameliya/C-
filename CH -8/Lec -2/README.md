@@ -1,4 +1,4 @@
-# CH -5 -5.2
+# CH -8 -8.2
 
 <u>**Aim 1**</u> : WAP to perform some basic mathematical operations
 using Abstract class such like:
@@ -12,6 +12,7 @@ calculate() to perform all above operations
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+<img width="343" alt="image 1" src="https://user-images.githubusercontent.com/114163761/210814441-7abc51dd-4963-4557-aa18-8ca921afd682.PNG">
+
 ****
 ****
