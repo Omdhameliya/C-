@@ -1,4 +1,4 @@
-# CH -5 -5.2
+# CH -8 -8.1
 
 <u>**Aim 1**</u> : WAP to abstract some attributes of class Admin to
 prevent them to be inherited by its child classes.
