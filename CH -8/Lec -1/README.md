@@ -21,6 +21,6 @@ accordingly.
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+<img width="366" alt="image1" src="https://user-images.githubusercontent.com/114163761/210813776-26a0587d-03d3-40fb-8c57-b9fbdd03207e.PNG">
 ****
 ****
