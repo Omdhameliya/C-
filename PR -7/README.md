@@ -6,7 +6,8 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+
+![1](https://user-images.githubusercontent.com/114163761/211322278-45b5fb19-6494-4289-9a09-52aba868160c.PNG)
 ****
 ****
 
@@ -16,6 +17,7 @@
 
 <u>**Outout**</u> : 
 
-![Please Try Leter...](https://github.com/Omdhameliya/C-/blob/master/PR%20-3/Image/image1.PNG)
+
+![2](https://user-images.githubusercontent.com/114163761/211322339-964a1ec8-9722-4a71-a723-903ccc8c7bbd.PNG)
 ****
 ****
