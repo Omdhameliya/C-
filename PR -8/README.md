@@ -7,6 +7,8 @@
 <u>**Outout**</u> : 
 
 
+![1](https://user-images.githubusercontent.com/114163761/211328823-eb56e2cc-ccc1-4490-b9ea-a86b95a59ea1.PNG)
+
 ****
 ****
 
@@ -16,6 +18,8 @@
 
 <u>**Outout**</u> : 
 
+
+![2](https://user-images.githubusercontent.com/114163761/211328850-f42ab4ce-2491-4646-b12b-ea15b119302a.PNG)
 
 ****
 ****
